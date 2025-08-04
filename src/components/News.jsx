@@ -26,8 +26,8 @@ Wegman points to her accomplishments during her term, as well as prior experienc
 
 Butler is qualified, but Wegman's experience and accomplishments during her term give her the edge. Wegman is endorsed.`,
 
-      image: "/src/assets/penny-wegman.png",
-      sourceImage: "/src/assets/daily-herald.png",
+      image: "../../public/penny-wegman.png",
+      sourceImage: "../../public/daily-herald.png",
       link: "https://archive.ph/2024.10.17-134933/https://www.dailyherald.com/20241017/endorsements/endorsement-penny-wegman-for-kane-auditor/",
     },
     {
@@ -40,17 +40,17 @@ The award recognized Wegman's work for the Kane County Procurement Card Program.
 Procurement cards – known as p-cards – are credit cards issued to department heads and office holders for purchasing goods and services. The program helps streamline the purchasing process while maintaining proper oversight and accountability.
 
 Wegman's innovative approach to auditing and oversight has been recognized nationally, highlighting her commitment to transparency and fiscal responsibility in Kane County government.`,
-      image: "/src/assets/pw.png",
-      sourceImage: "/src/assets/shawlocal.png",
+      image: "../../public/pw.png",
+      sourceImage: "../../public/shawlocal.png",
       link: "https://www.shawlocal.com/kane-county-chronicle/2024/07/30/kane-auditor-penny-wegman-receives-national-award/?utm_campaign=snd-autopilot&utm_medium=social&utm_source=facebook_KaneCountyChronicle",
     },
   ];
 
   const slideshowImages = [
-    "/src/assets/1.png",
-    "/src/assets/2.png",
-    "/src/assets/3.png",
-    "/src/assets/4.png",
+    "../../public/1.png",
+    "../../public/2.png",
+    "../../public/3.png",
+    "../../public/4.png",
   ];
 
   // Auto-advance slideshow

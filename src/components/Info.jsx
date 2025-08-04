@@ -174,7 +174,7 @@ const Info = () => {
               >
                 <div className="w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden border-4 border-blue-400/30 dark:border-blue-300/30 shadow-2xl">
                   <img
-                    src="/src/assets/penny-wegman.png"
+                    src="../../public/penny-wegman.png"
                     alt="Penny Wegman"
                     className="w-full h-full object-cover"
                   />
